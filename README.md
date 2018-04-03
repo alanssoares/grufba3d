@@ -1,4 +1,4 @@
-# grufba3d
+# GRUFBA 3D
 Gesture Dataset
 
 This dataset was created at the **Federal University of Bahia**, **Brazil**, as part of the project presented to obtain a Master's degree in Computer Science, at the **Institute of Mathematics** and **PGCOMP (Graduate Program in Computing)**.
