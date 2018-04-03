@@ -9,7 +9,7 @@ This dataset contains **7** gesture classes, recorded from **7** subjects, perfo
 ### Files
 This repository contains two files. The **gesture_raw.txt** contains the raw data, while the **gesture_origin.txt** is normalized and centralized at the origin using the centroid.
 
-The gestures were splitted using the following structured:
+The gestures were splitted using the following structure:
 
 ```
 gesture [class name] [number of hands]
